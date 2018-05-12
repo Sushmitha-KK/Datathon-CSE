@@ -1,3 +1,3 @@
 # Datathon-CSE
-Compitition submittion
+Compitition submission
 Crypto currency
